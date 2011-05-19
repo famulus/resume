@@ -2,8 +2,8 @@ Mark Suppes
 <mark.suppes@gmail.com>
 
 
-**Experience**
-___  
+##Experience
+
 **Ruby on Rails** Developer - **Bloomberg** LP - 2011 - Present  
 This one is secret for now!
 
