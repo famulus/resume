@@ -2,9 +2,9 @@ Mark Suppes
 mark.suppes@gmail.com
 
 
-Experience
+**Experience**
 
-Ruby on Rails Developer - **GUCCI** - 2008 - 2010
+**Ruby on Rails** Developer - **GUCCI** - 2008 - 2010
 Key developer for **Gucci's 2010 ecommerce relaunch resulting in 60% increase in sales** year over. Conceived and developed a streamlined photo management and content management system. Helped develop customer facing search using Solr. Developed a SKU management interface. Integrated with Oracle's Order Management system, Cybersource payment system, UPS Worldship, and Gucci's legacy inventory system. Wrote unit tests. Wrote ad hoc data translations scripts. Simplified complex javascript with RJS. Upgraded version control from SVN to GIT. Upgraded authentication system.
 
 Research Scientist - Prometheus Fusion Perfection - 2009 - 2010
