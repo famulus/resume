@@ -35,3 +35,6 @@ Glasgow University, Glasgow, Scotland,1999 - Relational Database Training
 **Ruby on Rails**, MySQL, HAML, Solr, Javascript, Prototype,**jQuery**, AJAX, JSON, CSS, XHTML, Mac OS X, Linux, **Git**, 
 
 Capistrano, SVN, Normalized Compression Distance, Filemaker, BRL-CAD.
+
+###Code Sample
+http://btcnearme.com is an open source Ruby on Rails app I built and deployed in one weekend. [Source code](https://github.com/famulus/btcnearme). 
