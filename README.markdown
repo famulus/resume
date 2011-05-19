@@ -21,7 +21,7 @@ Architected and developed http://criticalmetrics.com/. Critical Metrics is **rec
 
 Founder / CTO / Developer -  zipmenu - 2005 - 2006
 
-Developed business model and architected technology for zipmenu.com from concept to functioning web business in less than one year. **Acquired by Delivery.com**.
+Developed business model and architected technology for zipmenu.com from concept to functioning web business in less than one year. **Acquired by [Delivery.com](https://www.delivery.com/index.php)**.
 Designed and implemented user friendly interface for the online menu industry. Integrated multiple off-the-shelf applications and services with zipmenu's in-house web application: Google Maps, Citibank direct deposit, Yahoo geocoding, Authorize.net card processing, myFAX.com facsimile processing, Paypal. com, Broadvoice.com telephony, Asterisk Private branch exchange (PBX), remote backup, and email services. Aggressively identified and streamlined all repetitive business tasks with computer automation. Most business transactions are executed with a button click. Coordinated and executed zipmenu's technology using web based document collaboration tools. Managed code with Concurrent Versioning System (CVS) and back office information with Filemaker. Menu loading is automated with applescript, photoshop scripts, and optical character recognition. Deployed redundant internet connections with automatic failover for zipmenu office. Developed ticket printing system with barcode confirmation for restaurants.
 
 President / Lead Developer - masdevelopment - 2002-2004
