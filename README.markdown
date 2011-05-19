@@ -24,8 +24,13 @@ Filemaker Developer -  **Macys.com / Bloomingdales.com** / Federated Direct - 20
 Member of six-person team that developed and maintained 82-table FileMaker Pro content- management system. Developed cutover system to automatically import existing user data into new versions of database code. Developed data export system to publish **Macys.com product information on AOL**. Created project management system to forecast development hours and personnel requirements in preparation for large projects. Developed AppleScript for duplicate record detection across 82 file system. Provided support for 230 users. Investigated and repaired system errors. Conducted research on FileMaker Pro record-locking and search speed issues. 
 
 Education
+
 **Franklin & Marshall College**, Lancaster, PA, 2000 - B.A. in **Business and Psychology** 
+
 Glasgow University, Glasgow, Scotland,1999 - Relational Database Training
 
 Skills
-**Ruby on Rails**, MySQL, HAML, Solr, Javascript, Prototype,**jQuery**, AJAX, JSON, CSS, XHTML, Mac OS X, Linux, **Git**, Capistrano, SVN, Normalized Compression Distance, Filemaker, BRL-CAD.
+
+**Ruby on Rails**, MySQL, HAML, Solr, Javascript, Prototype,**jQuery**, AJAX, JSON, CSS, XHTML, Mac OS X, Linux, **Git**, 
+
+Capistrano, SVN, Normalized Compression Distance, Filemaker, BRL-CAD.
