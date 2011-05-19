@@ -11,7 +11,7 @@ This one is secret for now!
 
 Key developer for **Gucci's 2010 ecommerce relaunch resulting in 60% increase in sales** year over. Conceived and developed a streamlined photo management and content management system. Helped develop customer facing search using Solr. Developed a SKU management interface. Integrated with Oracle's Order Management system, Cybersource payment system, UPS Worldship, and Gucci's legacy inventory system. Wrote unit tests. Wrote ad hoc data translations scripts. Simplified complex javascript with RJS. Upgraded version control from SVN to GIT. Upgraded authentication system.
 
-Research Scientist - Prometheus Fusion Perfection - 2009 - 2010
+Research Scientist - [Prometheus Fusion Perfection](http://prometheusfusionperfection.com/) - 2009 - 2010
 
 Designed, fabricated, and operated a Farnsworth-Hirsch Fusor. **Achieved nuclear fusion. Project garnered international media attention.** Designed and fabricated a superconducting Bussard magrid with BRL-CAD. Put a superconducting magnet into a persistent state. Designed and implemented an ultra high vacuum system with turbo molecular pumping station. Designed control system for Glassman high voltage power supply. Setup a mass flow controller for precise gas control. Implemented National Instruments data acquisition system. Fabricated parts using direct to metal technology. Tested hight power IGBT switch. Integrated ion pressure gauge, magnetometer, mass flow controller and power supplies to data acquisition system. Used Residual Gas Analyzer to detect hydrocarbon contamination. Developed research blog into a clearinghouse for Bussard reactor information.
 
