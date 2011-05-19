@@ -1,5 +1,5 @@
 Mark Suppes
-mark.suppes@gmail.com
+<mark.suppes@gmail.com>
 
 
 **Experience**
