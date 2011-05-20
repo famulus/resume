@@ -4,7 +4,7 @@
 
 ###Experience
 
-**Ruby on Rails** Developer - **Bloomberg** LP - 2011-Present  
+**Ruby on Rails, jQuery** Developer - **Bloomberg** LP - 2011-Present  
 This one is secret for now!
 
 **Ruby on Rails** Developer - **GUCCI** - 2008-2010  
