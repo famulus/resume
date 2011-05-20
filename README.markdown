@@ -32,8 +32,7 @@ Member of six-person team that developed and maintained 82-table FileMaker Pro c
 Glasgow University, Glasgow, Scotland,1999 - Relational Database Training
 
 ###Skills     
-**Ruby on Rails**, MySQL, HAML, Solr, Javascript, Prototype,**jQuery**, AJAX, JSON, CSS, XHTML, Mac OS X, Linux, **Git**, 
-
+**Ruby on Rails, jQuery, Git, EC2**, MySQL, HAML, Solr, Javascript, Prototype, JSON, CSS, XHTML, Mac OS X, Linux,
 Capistrano, SVN, Normalized Compression Distance, Filemaker, BRL-CAD.
 
 ###Code Sample
