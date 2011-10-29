@@ -5,7 +5,7 @@
 ###Experience
 
 **Ruby on Rails, jQuery**  - **Bloomberg** LP - 2011 
-Assisted the relaunch of Bloomberg Law. Implemented missing features and fixed bugs like a machine for three months. Successful Launch.
+Assisted the relaunch of Bloomberg Law. Implemented missing features and fixed bugs like a machine for three months. Successful launch.
 
 **Ruby on Rails**  - **GUCCI** - 2008-2010  
 Key developer for **[Gucci's 2010 ecommerce relaunch](http://www.gucci.com/us/home) resulting in 60% increase in sales** year over. Conceived and developed a streamlined photo management and content management system. Helped develop customer facing search using Solr. Developed a SKU management interface. Integrated with Oracle's Order Management system, Cybersource payment system, UPS Worldship, and Gucci's legacy inventory system. Wrote unit tests. Wrote ad hoc data translations scripts. Simplified complex javascript with RJS. Upgraded version control from SVN to GIT. Upgraded authentication system.
