@@ -33,8 +33,8 @@ Member of six-person team that developed and maintained 82-table FileMaker Pro c
 Glasgow University, Glasgow, Scotland 1999 - Relational Database Training
 
 ###Skills     
-**Ruby on Rails, jQuery, Git, EC2**, MySQL, HAML, Solr, Javascript, Prototype, JSON, CSS, XHTML, Mac OS X, Linux,
-Capistrano, SVN, Normalized Compression Distance, Filemaker, BRL-CAD.
+**Ruby on Rails, jQuery, Git, AWS**, Heroku, MySQL, HAML, Solr, Javascript, Prototype, JSON, CSS, XHTML, Mac OS X, Linux,
+Capistrano, SVN, Normalized Compression Distance, Filemaker, BRL-CAD, OpenSCAD.
 
 ###Code Sample
 http://btcnearme.com is an open source Ruby on Rails app I built and deployed in one weekend. [Source code](https://github.com/famulus/btcnearme). 
