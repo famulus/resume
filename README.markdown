@@ -5,7 +5,7 @@
 ###Experience
 
 **Lead Developer Olympic Syndication** - [The New York Times](http://www.nytimes.com/) 2012 - Present  
-Responsible for development and support of the London 2012 Olympics syndication. Developed internationalization, localization, and admin interfaces.
+Responsible for development and support of the London 2012 Olympics syndication. Implemented internationalization, localization, and admin interfaces.
 
 
 **Research Scientist** - [Prometheus Fusion Perfection](http://prometheusfusionperfection.com/) 2009 - Present  
