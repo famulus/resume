@@ -4,6 +4,10 @@
 
 ###Experience
 
+**Lead Developer Olympic Syndication** - [The New York Times](http://www.nytimes.com/) 2012 - Present
+Responsible for development and support of the London 2012 Olympics syndication. Developed internationalization, localization, and admin interfaces.
+
+
 **Research Scientist** - [Prometheus Fusion Perfection](http://prometheusfusionperfection.com/) 2009 - Present  
 First ever amateur physicist to build and operate a copper coil [Polywell Fusion Reactor](http://en.wikipedia.org/wiki/Polywell). Designed, fabricated, and operated a [Farnsworth-Hirsch Fusor](http://en.wikipedia.org/wiki/Fusor), becoming the 38th amateur physicist in the world to achieve nuclear fusion. Project garnered [international media attention](http://www.bbc.co.uk/news/10385853). Built a persistent superconducting magnet; Designed and implemented an ultra high vacuum system with turbo molecular pumping station; Designed control system for high voltage power supply; Installed mass flow controller for precise gas control; Implemented National Instruments data acquisition system; Fabricated parts using 3D metal printing; Integrated ion pressure gauge, magnetometer, mass flow controller and power supplies to data acquisition system; Used Residual Gas Analyzer to detect hydrocarbon contamination. Developed research blog into a clearinghouse for Polywell Reactor information.
 
