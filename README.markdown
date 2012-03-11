@@ -4,7 +4,7 @@
 
 ###Experience
 
-**Lead Developer Olympic Syndication** - [The New York Times](http://www.nytimes.com/) 2012 - Present
+**Lead Developer Olympic Syndication** - [The New York Times](http://www.nytimes.com/) 2012 - Present  
 Responsible for development and support of the London 2012 Olympics syndication. Developed internationalization, localization, and admin interfaces.
 
 
