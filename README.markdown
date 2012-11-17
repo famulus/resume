@@ -1,8 +1,8 @@
-###Mark Suppes  
+### Mark Suppes  
 <mark.suppes@gmail.com>
 
 
-###Experience
+### Experience
 
 **Lead Developer Olympic Syndication** - [The New York Times](http://www.nytimes.com/) 2012   
 The NYTimes [London 2012 Olympic website](http://london2012.nytimes.com/) is the most ambitious web application the New York Times has undertaken to date. Responsible for development and support of [London 2012 Olympics syndication](http://www.poynter.org/latest-news/top-stories/184315/new-york-times-news-apps-team-ventures-into-product-development-with-olympics-syndication/). Implemented internationalization, localization, and administrative interfaces with the Interactive News team. Produced sales video. Responsible for technical sales leading to hundreds of thousands of dollars in contracts. Setup production infrastructure using Amazon Web Services. Developed Reuters feed ingest with auto publishing. Developed custom pages for [Canadian Broadcasting Corporation](http://www.cbc.ca/olympics/) which led to [CBC's recapturing the Olympic broadcast rights](http://www.cbc.ca/news/canada/story/2012/08/01/cbc-olympics-rights.html). Developed the API which powered Guardian's viral hit [wasanolympicrecordsettoday](http://wasanolympicrecordsettoday.com/#record/august/12). Provided high touch technical support for clients around the world.
@@ -31,14 +31,14 @@ Completed development of billing and job tracking system for **Grey Global Group
 Filemaker Developer -  **Macys.com / Bloomingdales.com** / Federated Direct 2001-2002  
 Member of six-person team that developed and maintained 82-table FileMaker Pro content- management system. Developed cutover system to automatically import existing user data into new versions of database code. Developed data export system to publish **Macys.com product information on AOL**. Created project management system to forecast development hours and personnel requirements in preparation for large projects. Developed AppleScript for duplicate record detection across 82 file system. Provided support for 230 users. Investigated and repaired system errors. Conducted research on FileMaker Pro record-locking and search speed issues. 
 
-###Education    
+### Education    
 **Franklin & Marshall College**, Lancaster, PA  2000 - B.A. in **Business and Psychology** 
 
 Glasgow University, Glasgow, Scotland 1999 - Relational Database Training
 
-###Skills     
+### Skills     
 **Ruby on Rails, jQuery, Git, AWS**,Redis, Heroku, MySQL, HAML, Solr, Javascript, Prototype, JSON, CSS, XHTML, Mac OS X, Linux,
 Capistrano, SVN, Normalized Compression Distance, Filemaker, BRL-CAD, OpenSCAD.
 
-###Code Sample
+### Code Sample
 http://btcnearme.com is an open source Ruby on Rails app I built and deployed in one weekend. [Source code](https://github.com/famulus/btcnearme). 
