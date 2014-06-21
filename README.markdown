@@ -4,11 +4,15 @@
 
 ### Experience
 
+**Interactive News Developer** - [The New York Times](http://www.nytimes.com/) 2012 - Present
+Won a publisher's award for work on the [Paying Till It Hurts](http://www.nytimes.com/interactive/2014/health/paying-till-it-hurts.html) series. Developed the slideshow player for Josh Haners [Pulitzer Prize](http://www.pulitzer.org/works/2014-Feature-Photography) winning photos in [Beyond the Finish Line](http://www.nytimes.com/2013/07/08/sports/beyond-the-finish-line.html). Acknowledged as a "Digital Star" in the leaked New York Times [Digital Innovation report](http://mashable.com/2014/05/16/full-new-york-times-innovation-report/). 
+
+
 **Lead Developer Olympic Syndication** - [The New York Times](http://www.nytimes.com/) 2012   
 The NYTimes [London 2012 Olympic website](http://london2012.nytimes.com/) is the most ambitious web application the New York Times has undertaken to date. Responsible for development and support of [London 2012 Olympics syndication](http://www.poynter.org/latest-news/top-stories/184315/new-york-times-news-apps-team-ventures-into-product-development-with-olympics-syndication/). Implemented internationalization, localization, and administrative interfaces with the Interactive News team. Produced sales video. Responsible for technical sales leading to hundreds of thousands of dollars in contracts. Setup production infrastructure using Amazon Web Services. Developed Reuters feed ingest with auto publishing. Developed custom pages for [Canadian Broadcasting Corporation](http://www.cbc.ca/olympics/) which led to [CBC's recapturing the Olympic broadcast rights](http://www.cbc.ca/news/canada/story/2012/08/01/cbc-olympics-rights.html). Developed the API which powered Guardian's viral hit [wasanolympicrecordsettoday](http://wasanolympicrecordsettoday.com/#record/august/12). Provided high touch technical support for clients around the world.
 
 
-**Research Scientist** - [Prometheus Fusion Perfection](http://prometheusfusionperfection.com/) 2009 - Present  
+**Research Scientist** - [Prometheus Fusion Perfection](http://prometheusfusionperfection.com/) 2009 - 2013  
 First ever amateur physicist to build and operate a copper coil [Polywell Fusion Reactor](http://en.wikipedia.org/wiki/Polywell). Designed, fabricated, and operated a [Farnsworth-Hirsch Fusor](http://en.wikipedia.org/wiki/Fusor), becoming the **38th amateur physicist in the world to achieve nuclear fusion**. Project garnered [international media attention](http://www.bbc.co.uk/news/10385853). Built a persistent superconducting magnet; Designed and implemented an ultra high vacuum system with turbo molecular pumping station; Designed control system for high voltage power supply; Installed mass flow controller for precise gas control; Implemented National Instruments data acquisition system; Fabricated parts using 3D metal printing; Integrated ion pressure gauge, magnetometer, mass flow controller and power supplies to data acquisition system; Used Residual Gas Analyzer to detect hydrocarbon contamination. Developed research blog into a clearinghouse for Polywell Reactor information.
 
 
@@ -36,9 +40,7 @@ Member of six-person team that developed and maintained 82-table FileMaker Pro c
 
 Glasgow University, Glasgow, Scotland 1999 - Relational Database Training
 
-### Skills     
-**Ruby on Rails, jQuery, Git, AWS**,Redis, Heroku, MySQL, HAML, Solr, Javascript, Prototype, JSON, CSS, XHTML, Mac OS X, Linux,
-Capistrano, SVN, Normalized Compression Distance, Filemaker, BRL-CAD, OpenSCAD.
+### Tools     
+Ruby on Rails, jQuery, Git, AWS, React, Require, Underscorejs, Backbone, Redis, Heroku, Chrome, MySQL, HAML, Solr, Javascript, Prototype, JSON, CSS, XHTML, Mac OS X, Linux.
 
-### Code Sample
-http://btcnearme.com is an open source Ruby on Rails app I built and deployed in one weekend. [Source code](https://github.com/famulus/btcnearme). 
+	
