@@ -4,8 +4,7 @@
 
 ### Experience
 
-**Interactive News Developer** - [The New York Times](http://www.nytimes.com/) 2012 - Present
-
+**Interactive News Developer** - [The New York Times](http://www.nytimes.com/) 2012 - Present  
 Won a publisher's award for work on the [Paying Till It Hurts](http://www.nytimes.com/interactive/2014/health/paying-till-it-hurts.html) series. Developed the slideshow player for Josh Haners [Pulitzer Prize](http://www.pulitzer.org/works/2014-Feature-Photography) winning photos in [Beyond the Finish Line](http://www.nytimes.com/2013/07/08/sports/beyond-the-finish-line.html). Acknowledged as a "Digital Star" in the leaked New York Times [Digital Innovation report](http://mashable.com/2014/05/16/full-new-york-times-innovation-report/). 
 
 
