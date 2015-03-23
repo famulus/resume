@@ -4,6 +4,11 @@
 
 ### Experience
 
+**Bitcoin Miscellany** - 2015
+
+Bitcoin investor since 2010. Technical advisor for the upcoming book ["Digital Gold"](http://www.harpercollins.com/9780062362490/digital-gold), written by New York Times journalist Nathanial Popper. Bitcoin obsessive. Good understanding of protocol, ecosystem, culture and politics of bitcoin. Developed BTCNEARME in 2011 (now closed), a forerunner of localbitcoins.
+
+
 **Interactive News Developer** - [The New York Times](http://www.nytimes.com/) 2012 - 2014  
 Won publisher's award for work on the [Paying Till It Hurts](http://www.nytimes.com/interactive/2014/health/paying-till-it-hurts.html) series. Developed slideshow player for Josh Haner's [Pulitzer Prize](http://www.pulitzer.org/works/2014-Feature-Photography) winning photos in [Beyond the Finish Line](http://www.nytimes.com/2013/07/08/sports/beyond-the-finish-line.html). Acknowledged as a "Digital Star" in the leaked New York Times [Digital Innovation report](http://mashable.com/2014/05/16/full-new-york-times-innovation-report/). Won publisher's award for work on [High Time: An Editorial Series on Marijuana Legalization](http://www.nytimes.com/interactive/2014/07/27/opinion/sunday/high-time-marijuana-legalization.html). Developed the [Replay](http://www.nytimes.com/interactive/2014/sports/replay.html) sports slideshow gallery. Developed the much-used timeline tool.
 
