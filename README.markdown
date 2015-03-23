@@ -6,7 +6,7 @@
 
 **Bitcoin Miscellany** - 2015
 
-Bitcoin investor since 2010. Technical advisor for the upcoming book ["Digital Gold"](http://www.harpercollins.com/9780062362490/digital-gold), written by New York Times journalist Nathanial Popper. Bitcoin obsessive. Good understanding of protocol, ecosystem, culture and politics of bitcoin. Developed BTCNEARME in 2011 (now closed), a forerunner of localbitcoins.
+Bitcoin investor since 2010. Technical advisor for the upcoming book ["Digital Gold"](http://www.harpercollins.com/9780062362490/digital-gold), written by New York Times journalist Nathanial Popper. Bitcoin obsessive. Good understanding of protocol, ecosystem, culture and politics of bitcoin. Developed [BTCNEARME](https://github.com/famulus/btcnearme) in 2011 (now closed), a forerunner of localbitcoins.
 
 
 **Interactive News Developer** - [The New York Times](http://www.nytimes.com/) 2012 - 2014  
