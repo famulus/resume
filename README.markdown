@@ -7,8 +7,7 @@
 **Bitcoin / Blockchain Developer** - [Bridge21](https://www.bridge21inc.com/) 2015  
 Developing bitcoin wallet applications. 
 
-**Bitcoin Technical Advisor** - ["Digital Gold"](http://www.harpercollins.com/9780062362490/digital-gold) 201	  
-Technical advisor for the bitcoin history ["Digital Gold"](http://www.harpercollins.com/9780062362490/digital-gold).
+**Bitcoin Technical Advisor** - ["Digital Gold"](http://www.harpercollins.com/9780062362490/digital-gold) 2015   Technical advisor for the bitcoin history ["Digital Gold"](http://www.harpercollins.com/9780062362490/digital-gold).
 
 **Interactive News Developer** - [The New York Times](http://www.nytimes.com/) 2012 - 2014  
 Won publisher's award for work on the [Paying Till It Hurts](http://www.nytimes.com/interactive/2014/health/paying-till-it-hurts.html) series. Developed slideshow player for Josh Haner's [Pulitzer Prize](http://www.pulitzer.org/works/2014-Feature-Photography) winning photos in [Beyond the Finish Line](http://www.nytimes.com/2013/07/08/sports/beyond-the-finish-line.html). Acknowledged as a "Digital Star" in the leaked New York Times [Digital Innovation report](http://mashable.com/2014/05/16/full-new-york-times-innovation-report/). Won publisher's award for work on [High Time: An Editorial Series on Marijuana Legalization](http://www.nytimes.com/interactive/2014/07/27/opinion/sunday/high-time-marijuana-legalization.html). Developed the [Replay](http://www.nytimes.com/interactive/2014/sports/replay.html) sports slideshow gallery. Developed the much-used timeline tool.
