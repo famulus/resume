@@ -7,7 +7,7 @@
 **Bitcoin / Blockchain Developer** - [Bridge21](https://www.bridge21inc.com/) 2015  
 Developing bitcoin wallet applications. 
 
-**Bitcoin Technical Advisor** - ["Digital Gold"](http://www.harpercollins.com/9780062362490/digital-gold) 2015  
+**Bitcoin Technical Advisor** - ["Digital Gold"](http://www.harpercollins.com/9780062362490/digital-gold) 2014  
 Technical advisor for the bitcoin history ["Digital Gold"](http://www.harpercollins.com/9780062362490/digital-gold).
 
 **Interactive News Developer** - [The New York Times](http://www.nytimes.com/) 2012 - 2014  
