@@ -4,7 +4,7 @@
 
 ### Experience
 
-**CTO** - [Bridge21](https://www.bridge21inc.com/) 2015 - present 
+**CTO** - [Bridge21](https://www.bridge21inc.com/) 2015 - present  
 Accepted into the Techstars program. 
 
 **Bitcoin Technical Advisor** - ["Digital Gold"](http://www.harpercollins.com/9780062362490/digital-gold) 2014  
